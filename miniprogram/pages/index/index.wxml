@@ -3,6 +3,7 @@
 
   <!-- 用户 openid -->
   <view class="userinfo">
+    LLF
     <button 
       open-type="getUserInfo" 
       bindgetuserinfo="onGetUserInfo"
